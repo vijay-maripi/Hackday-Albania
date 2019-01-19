@@ -7,7 +7,7 @@
 * In vulhub you can practice your hacking skills through CTF (CAPTURE THE FLAG: contest is a special kind of cybersecurity competition designed to challenge its participants to solve computer security problems and/or capture and defend computer systems.)
 
 ## HackDay Albania's 2016 CTF. 
-* it is one of the CTF FROM Vulnhub.com
+* It is one of the CTF FROM Vulnhub.com
 * The level is beginner to intermediate .
 * This challenge is all about cracking ubuntu os and finding the flag, There are different approaches to capture the flag this is the one method among them.
 
@@ -20,11 +20,11 @@ link to Download the virtual box .ova file :[ubuntu os](https://www.vulnhub.com/
 
 ![](https://github.com/vijay-maripi/Hackday-Albania/blob/master/img/1.png)
 
-2. search .ova file from your Downloads
+2. Search .ova file from your Downloads
 
 ![](https://github.com/vijay-maripi/Hackday-Albania/blob/master/img/2.png)
 
-3. click on import after searching, it will take some time for importing.
+3. Click on import after searching, it will take some time for importing.
 
 ![](https://github.com/vijay-maripi/Hackday-Albania/blob/master/img/4.png)
 
@@ -32,7 +32,7 @@ link to Download the virtual box .ova file :[ubuntu os](https://www.vulnhub.com/
 
 ![](https://github.com/vijay-maripi/Hackday-Albania/blob/master/img/6.png)
 
-5. after opening ubuntu you will get this screen as shown below, To Capture the flag you need to know "username" & "password"
+5. After opening ubuntu you will get this screen as shown below, To Capture the flag you need to know "username" & "password"
 
 ![](https://github.com/vijay-maripi/Hackday-Albania/blob/master/img/11.png)
 
@@ -78,7 +78,7 @@ root@(none):/# exec /sbin/init
 
 now press enter and then wait until login screen appears.
 
-13. after that use username: root and password is what you kept.
+13. After that use username: root and password is what you kept.
 
 ![](https://github.com/vijay-maripi/Hackday-Albania/blob/master/img/19.png)
 
@@ -94,7 +94,7 @@ root@hackday:cat flag.txt
 
 ![](https://github.com/vijay-maripi/Hackday-Albania/blob/master/img/22.png)
 
-yo atlast we captured the flag. Happy Hacking
+Yo atlast we captured the flag. Happy Hacking
 
 
 
